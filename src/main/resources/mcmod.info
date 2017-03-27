@@ -1,0 +1,16 @@
+[
+{
+  "modid": "oresstats",
+  "name": "OresStats",
+  "description": "Logs HiddenOre drops & stone breaks to {your minecraft directory}/OresStats",
+  "version": "1.0",
+  "mcversion": "1.10.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["MudkipGuy"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
