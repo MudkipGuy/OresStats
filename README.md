@@ -1,5 +1,5 @@
-# OresStats
-OreStats is a lightweight open source mod for Minecraft 1.10.2 that logs HiddenOre drops and stone breaks to {your minecraft directory}/OresStats.
+# Ores Stats
+Ore Stats is a lightweight open source mod for Minecraft 1.10.2 that logs HiddenOre drops and stone breaks to {your minecraft directory}/OresStats.
 
 These log files contain the biome, height, dimension, and tool used of every stone break and every HiddenOre drop that you get while you have logging enabled.
 
